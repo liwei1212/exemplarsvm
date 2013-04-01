@@ -8,6 +8,7 @@ projects, as well as my doctoral dissertation:
 
 ## [Tomasz Malisiewicz](http://www.cs.cmu.edu/~tmalisie/), [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg), [Alexei A. Efros](http://www.cs.cmu.edu/~efros). **Ensemble of Exemplar-SVMs for Object Detection and Beyond.** In ICCV, 2011. [PDF](http://www.cs.cmu.edu/~tmalisie/projects/iccv11/exemplarsvm-iccv11.pdf) | [Project Page](http://www.cs.cmu.edu/~tmalisie/projects/iccv11/) 
 
+[xiaowei](http://baidu.com)
 ![](https://github.com/quantombone/exemplarsvm/raw/master/images/exemplar_classifiers-small_n.png)
 
 Abstract
